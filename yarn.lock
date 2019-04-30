@@ -11347,10 +11347,10 @@ react-lifecycles-compat@^3.0.0, react-lifecycles-compat@^3.0.2, react-lifecycles
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
 
-react-md@^1.9.2:
-  version "1.9.2"
-  resolved "https://registry.yarnpkg.com/react-md/-/react-md-1.9.2.tgz#5685412be24a82a3ff7d8a7344767a9757f21f15"
-  integrity sha512-vfUVIVnOkoXk6be9RIAne1qHpJN3kwYH+fC7gHJmsJsGSi7bbg9v3RSJP9JDeTkrXj/qhbUGHuZM+4XNjis/cA==
+react-md@^1.10.1:
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/react-md/-/react-md-1.10.1.tgz#31d9a42739b26205c4f96b9f0eac4052c14f4868"
+  integrity sha512-L5U2Ds3lKBK9Eg9YY384w9HsmXpcVjFMcHiIuJMRdfgWwF+5fAu2EU1v9ylscQRsZodMSpimEvimGYlOG7BAKw==
   dependencies:
     classnames "^2.2.5"
     prop-types "15.6.0"
